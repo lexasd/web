@@ -1,0 +1,36 @@
+body {
+    background-color: #FCAB44;
+    text-align: center;
+}
+
+img { 
+    width:250px;
+border-radius: 80px;
+}
+
+.cube{
+    width: 100px;
+    height:100px:
+}
+div{
+    background-color: grey;
+    margin-bottom: 20px;
+}
+.cube {
+    width: 100px;
+    height: 100px;
+}
+
+.circle{
+width: 100px;
+height: 100px;
+border-radius: 50%;
+}
+
+.yellow{
+    background-color: greenyellow;
+}
+
+
+#transfo {
+     transform: rodate(45deg)
